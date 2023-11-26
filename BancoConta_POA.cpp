@@ -1,3 +1,7 @@
+// Desafio de Projeto: Desenvolvendo um Projeto com o Paradigma de Programação Orientado à Aspectos
+// Lucio Ferreira de Cerqueira
+// 26NOV2023
+
 #include <iostream>
 
 class ContaBancaria {
